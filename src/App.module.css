@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  font-size: 25px;
+  background-color: #2a7f85;
+  color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.header {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
